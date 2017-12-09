@@ -1,5 +1,6 @@
 {
-  "name": "lispjs",
+  "name": "repl-js",
+  "description": "A Scheme repl in the browser",
   "version": "0.0.1",
   "description": "",
   "scripts": {
