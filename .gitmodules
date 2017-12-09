@@ -1,3 +1,0 @@
-[submodule "minilisp"]
-	path = minilisp
-	url = git@github.com:rui314/minilisp.git
