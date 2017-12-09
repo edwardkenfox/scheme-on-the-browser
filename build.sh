@@ -1,3 +1,3 @@
 #!/bin/sh
 
-/Users/edwardkenfox/.emsdk/emscripten/1.37.22/emcc ./minilisp/minilisp.c -o ./build/minilisp.js
+emcc -O2 --bind -std=c++11 -s NO_EXIT_RUNTIME=1 -s WASM=1 ./src/scheme.cpp -o ./build/index.html
