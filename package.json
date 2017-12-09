@@ -1,6 +1,6 @@
 {
-  "name": "repl-js",
-  "description": "A Scheme repl in the browser",
+  "name": "scheme-on-the-browser",
+  "description": "A Scheme repl on the browser",
   "version": "0.0.1",
   "description": "",
   "scripts": {
