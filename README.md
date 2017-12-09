@@ -18,6 +18,9 @@ $ open build/index.html
 ```
 
 And you'll see a prompt window in the page which works as a scheme repl. The output is printed in the browser console, so make sure to have the devtools open.
+## Demo
+
+https://edwardkenfox.com/playground/repl-js/
 
 ## Acknowledgements
 
